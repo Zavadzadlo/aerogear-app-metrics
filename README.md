@@ -290,7 +290,7 @@ The Swagger UI is available at [localhost:8080](http://localhost:8080).
 
 ## Contributing
 
-All contributions are hugely appreciated. Please see our [Contributing Guide](./CONTRIBUTING.md) for guidelines on how to open issues and pull requests. Please check out our [Code of Conduct](./.github/CODE_OF_CONDUCT) too.
+All contributions are hugely appreciated. Please see our [Contributing Guide](./CONTRIBUTING.md) for guidelines on how to open issues and pull requests. Please check out our [Code of Conduct](./.github/CODE_OF_CONDUCT.md) too.
 
 ## Any Questions?
 
